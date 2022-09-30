@@ -2,7 +2,11 @@
 - 👀 I’m interested in frontend engineering
 - 🌱 I’m currently learning @ ALTSCHOOL AFRICA
 - 💞️ I’m looking to collaborate on other developer's wealth of knowledge
-- 📫 How to reach me ...
+- 📫 How to reach me ..
+- Email- mernosen@gmail.com
+- instsgram -mernosenohunyon
+- twitter - @ MercyNosen
+- Whatsapp - Mercy Nosen
 
 <!---
 Mernosen189/Mernosen189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
