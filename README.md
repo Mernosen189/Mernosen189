@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on other developer's wealth of knowledge
 - 📫 How to reach me ..
 - Email- mernosen@gmail.com
-- instsgram -mernosenohunyon
+- instsgram -@mernosenohunyon
 - twitter - @ MercyNosen
 - Whatsapp - Mercy Nosen
 
