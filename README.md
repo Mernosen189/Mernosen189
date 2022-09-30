@@ -7,6 +7,7 @@
 - instsgram -@mernosenohunyon
 - twitter - @ MercyNosen
 - Whatsapp - Mercy Nosen
+- Facebook - Nosen Mercy Ohunyon
 
 <!---
 Mernosen189/Mernosen189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
